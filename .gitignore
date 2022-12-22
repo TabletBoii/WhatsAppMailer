@@ -1,0 +1,4 @@
+backend/config/config.yaml
+backend/config/database.yaml
+backend/go.sum
+backend/examplestore.db
